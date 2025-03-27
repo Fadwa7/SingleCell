@@ -1,7 +1,6 @@
 #######################  PROJET TRANSCRIPTOMIQUE ##################
 ###################################################################
 # Autor 	: Fadwa EL KHDDAR 
-# Student   : Bioinformatic - Montpellier University 
 
 #### DATASET 1
 
